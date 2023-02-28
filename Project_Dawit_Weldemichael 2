@@ -29,7 +29,7 @@ public class Policy_Dawit_Weldemichael {
         this.smokingStatus = smokingStatus;
         this.height = height;
         this.weight = weight;
-    }
+    } 
 
     public int getPolicyNumber() {
         return policyNumber;
